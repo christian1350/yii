@@ -1,0 +1,147 @@
+2014/07/05 19:21:50 [error] [exception.CException] exception 'CException' with message 'Property "CUrlManager.showScriptName " is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\YiiBase.php(220): CComponent->__set('showScriptName ', false)
+#1 C:\xampp\htdocs\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\xampp\htdocs\yii\framework\base\CApplication.php(522): CModule->getComponent('urlManager')
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(140): CApplication->getUrlManager()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#6 {main}
+REQUEST_URI=/yii/prueba/index.php/site/page?view=about
+HTTP_REFERER=http://localhost/yii/prueba/index.php/site/index
+---
+2014/07/05 19:21:53 [error] [exception.CException] exception 'CException' with message 'Property "CUrlManager.showScriptName " is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\YiiBase.php(220): CComponent->__set('showScriptName ', false)
+#1 C:\xampp\htdocs\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\xampp\htdocs\yii\framework\base\CApplication.php(522): CModule->getComponent('urlManager')
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(140): CApplication->getUrlManager()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#6 {main}
+REQUEST_URI=/yii/prueba/index.php/site/index
+HTTP_REFERER=http://localhost/yii/prueba/index.php/site/page?view=about
+---
+2014/07/05 19:22:06 [error] [exception.CException] exception 'CException' with message 'Property "CUrlManager.showScriptName " is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\YiiBase.php(220): CComponent->__set('showScriptName ', false)
+#1 C:\xampp\htdocs\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\xampp\htdocs\yii\framework\base\CApplication.php(522): CModule->getComponent('urlManager')
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(140): CApplication->getUrlManager()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#6 {main}
+REQUEST_URI=/yii/prueba/
+---
+2014/07/05 19:22:10 [error] [exception.CException] exception 'CException' with message 'Property "CUrlManager.showScriptName " is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\YiiBase.php(220): CComponent->__set('showScriptName ', false)
+#1 C:\xampp\htdocs\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\xampp\htdocs\yii\framework\base\CApplication.php(522): CModule->getComponent('urlManager')
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(140): CApplication->getUrlManager()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#6 {main}
+REQUEST_URI=/yii/prueba/
+---
+2014/07/05 19:25:29 [error] [exception.CException] exception 'CException' with message 'Property "CUrlManager.showScriptName " is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\YiiBase.php(220): CComponent->__set('showScriptName ', false)
+#1 C:\xampp\htdocs\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\xampp\htdocs\yii\framework\base\CApplication.php(522): CModule->getComponent('urlManager')
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(140): CApplication->getUrlManager()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#6 {main}
+REQUEST_URI=/yii/prueba/index.php/site/index
+---
+2014/07/05 19:27:57 [error] [exception.CException] exception 'CException' with message 'Property "CUrlManager.showScriptName " is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\YiiBase.php(220): CComponent->__set('showScriptName ', false)
+#1 C:\xampp\htdocs\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\xampp\htdocs\yii\framework\base\CApplication.php(522): CModule->getComponent('urlManager')
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(140): CApplication->getUrlManager()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#6 {main}
+REQUEST_URI=/yii/prueba/
+---
+2014/07/05 19:32:00 [error] [exception.CException] exception 'CException' with message 'Property "CUrlManager.showScriptName " is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\YiiBase.php(220): CComponent->__set('showScriptName ', false)
+#1 C:\xampp\htdocs\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\xampp\htdocs\yii\framework\base\CApplication.php(522): CModule->getComponent('urlManager')
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(140): CApplication->getUrlManager()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#6 {main}
+REQUEST_URI=/yii/prueba/
+---
+2014/07/05 19:32:03 [error] [exception.CException] exception 'CException' with message 'Property "CUrlManager.showScriptName " is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\YiiBase.php(220): CComponent->__set('showScriptName ', false)
+#1 C:\xampp\htdocs\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\xampp\htdocs\yii\framework\base\CApplication.php(522): CModule->getComponent('urlManager')
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(140): CApplication->getUrlManager()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#6 {main}
+REQUEST_URI=/yii/prueba/
+---
+2014/07/05 19:32:29 [error] [exception.CException] exception 'CException' with message 'Property "CUrlManager.showScriptName " is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\YiiBase.php(220): CComponent->__set('showScriptName ', false)
+#1 C:\xampp\htdocs\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\xampp\htdocs\yii\framework\base\CApplication.php(522): CModule->getComponent('urlManager')
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(140): CApplication->getUrlManager()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#6 {main}
+REQUEST_URI=/yii/prueba/
+---
+2014/07/05 19:39:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login.html".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('login.html')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('login.html')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login.html')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/prueba/site/login.html
+---
+2014/07/05 19:54:32 [error] [php] Undefined variable: twitter (C:\xampp\htdocs\yii\prueba\protected\controllers\HolaController.php:9)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): HolaController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): HolaController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): HolaController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\yii\prueba\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/prueba/hola/index
+in C:\xampp\htdocs\yii\prueba\protected\controllers\HolaController.php (9)
+in C:\xampp\htdocs\yii\prueba\index.php (13)
+2014/07/05 20:13:10 [error] [php] Undefined variable: model (C:\xampp\htdocs\yii\prueba\protected\views\hola\index.php:2)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(869): HolaController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(782): HolaController->renderPartial()
+#2 C:\xampp\htdocs\yii\prueba\protected\controllers\HolaController.php(10): HolaController->render()
+#3 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): HolaController->actionIndex()
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(286): HolaController->runAction()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): HolaController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): HolaController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\yii\prueba\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/prueba/hola/index
+in C:\xampp\htdocs\yii\prueba\protected\views\hola\index.php (2)
+in C:\xampp\htdocs\yii\prueba\protected\controllers\HolaController.php (10)
+in C:\xampp\htdocs\yii\prueba\index.php (13)
+2014/07/10 06:43:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "yii".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('yii')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\prueba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/prueba/yii
+---
